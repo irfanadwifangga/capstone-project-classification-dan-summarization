@@ -5,7 +5,6 @@ Proyek ini berfokus pada analisis ulasan makanan di Amazon untuk mengidentifikas
 Alih-alih hanya melakukan klasifikasi sederhana, proyek ini menggunakan pendekatan **multi-task** dengan **IBM Granite LLM** melalui **Replicate API**, yang memungkinkan:
 - Mengklasifikasikan ulasan menjadi *Positive*, *Neutral/Mixed*, atau *Negative*.  
 - Mengidentifikasi aspek spesifik makanan (misalnya: Taste, Freshness, Packaging, Price, Delivery, Portion).  
-- Menyajikan ringkasan ulasan dengan format **Pros & Cons**.  
 
 ---
 
